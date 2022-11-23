@@ -19,19 +19,6 @@
 
 
 
-// function writeCards(["Guadalupe", "Ollie", "Aki"], "surprise"){
-//     for (let i = 0; i < writeCards.length; 1++){
-//         const cards = [
-//             "Thank you, Guadalupe, for the wonderful birthday gift!",
-//             "Thank you, Ollie, for the wonderful birthday gift!",
-//             "Thank you, Aki, for the wonderful birthday gift!",
-//         ];
-//     }
-//     return cards;
-// }
-
-
-
 const names = ["Guadalupe", "Ollie", "Aki"];
 
 
